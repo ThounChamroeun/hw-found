@@ -8,9 +8,9 @@
 
 /* Body */
 body {
-  background-color: #4f7ba6;
+  background-color: #bfcbd7;
   color: #333;
-  /* line-height: 1.6; */
+
 }
 
 /* Header */
@@ -19,6 +19,7 @@ header {
   color: white;
   padding: 20px;
   text-align: center;
+
 }
 
 header h1 {
@@ -28,9 +29,10 @@ header h1 {
 /* Navigation */
 nav a {
   color: white;
-  /* text-decoration: none; */
+  text-decoration: none;
   margin-right: 15px;
   font-weight: bold;
+  
 }
 
 
